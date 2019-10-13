@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="./css/app.css" />
+    <script src="https://polyfill.io/v3/polyfill.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <title>Раманізатар субцітраў</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <a href="/"><h1>Раманізатар субцітраў</h1></a>
+      </div>
+    </header>
+    <div class="container">
+      <div
+        class="drop-down"
+        onclick="document.querySelector('#file').click();"
+        ondragover="allowDrop(event)"
+        id="drop-down"
+      >
+        <div class="file-info" id="file-info">
+          <h3 id="file-name"></h3>
+          <p>Апрацована радкоў: <strong id="progress"></strong></p>
+        </div>
+        <p class="dropzone-text">Перацягніце сюды файл або проста націсніце</p>
+      </div>
+      <input
+        type="file"
+        name="file"
+        id="file"
+        hidden
+        accept=".vtt,.lrc,.smi,.ssa,.ass,.sub,.srt,.sbv"
+      />
+    </div>
+    <footer>
+      <div class="container">
+        <p>Designed By <a href="https://github.com/wiedymi/">Wiedy Mi</a></p>
+      </div>
+    </footer>
+    <script src="./js/app.js"></script>
+    <script>
+      function allowDrop(ev) {
+        ev.preventDefault()
+      }
+    </script>
+  </body>
+</html>

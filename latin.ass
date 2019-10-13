@@ -1,0 +1,391 @@
+[Script Info]
+Title: HorribleSubs
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Montserrat,72,&H00FFFFFF,&H000000FF,&H00000000,&H00040420,-1,0,0,0,100,115,0.7,0,1,3,0,2,3,3,45,0
+Style: Default - margin,Montserrat,72,&H00FFFFFF,&H000000FF,&H00000000,&H00040420,-1,0,0,0,100,115,0.309167,0,1,1.33333,0,2,1,1,20,0
+Style: Default - italics,Montserrat,72,&H00FFFFFF,&H000000FF,&H00000000,&H00040420,-1,-1,0,0,100,115,0.7,0,1,3,0,2,3,3,45,0
+Style: Default - top,Montserrat,72,&H00FFFFFF,&H000000FF,&H00000000,&H00040420,-1,0,0,0,100,115,0.309167,0,1,1.33333,0,8,1,1,20,0
+Style: Location,Montserrat,30,&H00FFFFFF,&H000000FF,&H00203023,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,8,53,53,20,0
+Style: Title1,Montserrat,39,&H00EBD58A,&H000000FF,&H0041403E,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,53,53,20,0
+Style: Sign1A,Montserrat,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,53,53,20,0
+Style: Sign1B,Montserrat,30,&H002F234C,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,27,53,7,0
+Style: Sign1C,Montserrat,27,&H0004040F,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,27,53,13,0
+Style: Sign1D,Montserrat,30,&H00FFFFFF,&H000000FF,&H00635834,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,27,53,13,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.90,0:00:06.65,Sign1A,Signage,0000,0000,0000,,U 2022 čalaviectva narešcie
+Dialogue: 0,0:00:09.61,0:00:11.61,Sign1A,Signage,0000,0000,0000,,stvaryla sapraŭdnuju virtuaĺnuju reaĺnasć.
+Dialogue: 0,0:00:17.85,0:00:21.29,Default - margin,VoiceOverGirl,0000,0000,0000,,Nadyšoŭ čas dlia novaha vypusku prahramy pra MMO.
+Dialogue: 0,0:00:21.29,0:00:23.37,Default - margin,VoiceOverGirl,0000,0000,0000,,U minuly raz
+Dialogue: 0,0:00:23.37,0:00:25.70,Default - margin,VoiceOverGirl,0000,0000,0000,,my pačali z reklamnaha videa.
+Dialogue: 0,0:00:25.00,0:00:27.96,Sign1B,VoiceOverGirl,0000,0000,0000,,Kaniec čarhi
+Dialogue: 0,0:00:25.70,0:00:27.96,Default - margin,VoiceOverGirl,0000,0000,0000,,Čaho čakali ŭsie hetyja liudzi ŭ čarzie?
+Dialogue: 0,0:00:27.96,0:00:29.84,Default - margin,VoiceOverGirl,0000,0000,0000,,Sword Art Online.
+Dialogue: 0,0:00:30.12,0:00:32.49,Default - margin,VoiceOverGirl,0000,0000,0000,,Pieršy ŭ čarzie pryjšoŭ \Nza try dni da zapusku.
+Dialogue: 0,0:00:32.49,0:00:33.79,Default - margin,VoiceOverGirl,0000,0000,0000,,Nievierahodna!
+Dialogue: 0,0:00:33.79,0:00:36.34,Default - margin,VoiceOverGirl,0000,0000,0000,,Ci heta toje, što zrabiŭ by kožny sapraŭdny hiejmier?
+Dialogue: 0,0:00:35.26,0:00:36.34,Sign1C,VoiceOverGirl,0000,0000,0000,,Sword Art Online \NKiraŭnik prajektu \N Kajaba Akichiko
+Dialogue: 0,0:00:36.34,0:00:39.82,Default - top,VoiceOverGirl,0000,0000,0000,,Sionnia my raspaviadziem pra
+Dialogue: 0,0:00:39.82,0:00:43.57,Default - top,VoiceOverGirl,0000,0000,0000,,susvietna viadomuju "Sword Art Online", taksama viadomuju jak SAO!
+Dialogue: 0,0:00:43.57,0:00:45.13,Default - top,VoiceOverGirl,0000,0000,0000,,Ščyra kažučy,
+Dialogue: 0,0:00:45.13,0:00:47.31,Default - top,VoiceOverGirl,0000,0000,0000,,dahetuĺ nivodnaje PZ, raspracavanaje pad NerveGear,
+Dialogue: 0,0:00:47.31,0:00:50.16,Default - top,VoiceOverGirl,0000,0000,0000,,nie vykarystoŭvala jaho mahčymasci na sto adsotkaŭ.
+Dialogue: 0,0:00:49.34,0:00:50.93,Default,Sister,0000,0000,0000,,Bracik...
+Dialogue: 0,0:00:50.16,0:00:51.23,Default - top,VOGirl2,0000,0000,0000,,Usie tyja huĺni byli luchtoj,
+Dialogue: 0,0:00:51.23,0:00:55.07,Default - top,VOGirl,0000,0000,0000,,alie MMA raspracavaŭ vynachodca NerveGear,
+Dialogue: 0,0:00:51.45,0:00:53.41,Default,Sister,0000,0000,0000,,Ja na treniroŭku.
+Dialogue: 0,0:00:55.07,0:00:57.07,Default - top,VOGirl,0000,0000,0000,,Kajaba Akichiko,
+Dialogue: 0,0:00:57.07,0:00:59.62,Default - top,VOGirl,0000,0000,0000,,i heta - doŭhačakanaja MMORPG dlia VR.
+Dialogue: 0,0:00:59.62,0:01:00.96,Default - top,VOGirl,0000,0000,0000,,Nie mahu dačakacca!
+Dialogue: 0,0:01:00.96,0:01:03.16,Default - top,VOGirl,0000,0000,0000,,Beta-tesciery kažuć, što heta bylo nievierahodna.
+Dialogue: 0,0:01:03.16,0:01:04.79,Default - top,VOGirl,0000,0000,0000,,Ja chaciela kopiju...
+Dialogue: 0,0:01:04.79,0:01:06.37,Default - top,VOGirl2,0000,0000,0000,,U pieršym tyražy byli \Ntoĺki dziesiać tysiač kopij.
+Dialogue: 0,0:01:06.37,0:01:08.28,Default - top,VOGirl2,0000,0000,0000,,Ich razabrali anlajn za siekundy.
+Dialogue: 0,0:01:08.28,0:01:09.34,Default - top,VOGirl2,0000,0000,0000,,I, jak vy možacie pabačyć,
+Dialogue: 0,0:01:09.34,0:01:12.34,Default - top,VOGirl2,0000,0000,0000,,addanyja fany kupili dyski.
+Dialogue: 0,0:01:27.59,0:01:28.65,Default,K,0000,0000,0000,,Pačać zlučennie!
+Dialogue: 0,0:01:39.16,0:01:40.91,Sign1D,K,0000,0000,0000,,{\fad(1,268)}Stvarennie piersanaža \N\NDadzienyja z beta-testa jašče dastupnyja. \NCi vy chočacie vykarystać ich?
+Dialogue: 0,0:02:01.26,0:02:04.59,Default,K,0000,0000,0000,,Ja viarnuŭsia ŭ hety sviet!
+Dialogue: 0,0:02:26.08,0:02:30.04,Title1,K,0000,0000,0000,,Sviet miačej
+Dialogue: 0,0:02:30.33,0:02:32.79,Location,K,0000,0000,0000,,{\fad(529,1)}Pavierch 1: Horad pačatkaŭ
+Dialogue: 0,0:02:32.79,0:02:34.55,Default,Players,0000,0000,0000,, Jak ja i skazaŭ jamu...
+Dialogue: 0,0:02:34.55,0:02:36.18,Default,Players,0000,0000,0000,,Hej, davaj arhanizujem viečarynu.
+Dialogue: 0,0:02:36.18,0:02:38.31,Default,Players,0000,0000,0000,,Hm, možna...
+Dialogue: 0,0:02:38.31,0:02:39.82,Default,Players,0000,0000,0000,,O, nu davaj!
+Dialogue: 0,0:02:44.58,0:02:47.38,Default,Kl,0000,0000,0000,,Hej, ty tam!
+Dialogue: 0,0:02:49.91,0:02:51.00,Default,K,0000,0000,0000,,Ja?
+Dialogue: 0,0:02:54.19,0:02:56.23,Default,Kl,0000,0000,0000,,Ty ruchaješsia tak, byccam užo tut byŭ.
+Dialogue: 0,0:02:56.23,0:02:58.07,Default,Kl,0000,0000,0000,,Ty byŭ beta-tescieram, tak?
+Dialogue: 0,0:02:58.07,0:02:59.53,Default,K,0000,0000,0000,,T-tak.
+Dialogue: 0,0:02:59.53,0:03:02.20,Default,Kl,0000,0000,0000,,Ja tut upieršyniu.
+Dialogue: 0,0:03:02.20,0:03:04.76,Default,Kl,0000,0000,0000,,Pakažaš mnie, što tut dy jak, dobra?
+Dialogue: 0,0:03:04.76,0:03:05.74,Default,K,0000,0000,0000,,E-e...
+Dialogue: 0,0:03:06.45,0:03:08.29,Default,Kl,0000,0000,0000,,Maliu ciabie!
+Dialogue: 0,0:03:08.84,0:03:10.66,Default,Kl,0000,0000,0000,,Mianie zavuć Klejn. Budziem znajomyja.
+Dialogue: 0,0:03:12.52,0:03:14.68,Default,K,0000,0000,0000,,Ja Kiryto.
+Dialogue: 0,0:03:18.01,0:03:21.34,Location,K,0000,0000,0000,,{\fad(396,473)}Pavierch 1: Horad pačatkaŭ, Zachodniaje Polie
+Dialogue: 0,0:03:18.32,0:03:22.05,Default - margin,Kl,0000,0000,0000,,U samuju pramiežnasć...
+Dialogue: 0,0:03:22.05,0:03:23.71,Default,K,0000,0000,0000,,Daj adpačyć.
+Dialogue: 0,0:03:23.71,0:03:25.54,Default,K,0000,0000,0000,,Ty ž nie adčuvaješ boliu.
+Dialogue: 0,0:03:26.41,0:03:27.88,Default,Kl,0000,0000,0000,,A, i praŭda.
+Dialogue: 0,0:03:27.88,0:03:28.93,Default,Kl,0000,0000,0000,,Dumaju, prosta zvyčka.
+Dialogue: 0,0:03:29.27,0:03:30.40,Default,K,0000,0000,0000,,Ja ž tabie kazaŭ.
+Dialogue: 0,0:03:30.40,0:03:32.97,Default,K,0000,0000,0000,,Samaje haloŭnaje - \Npačać ruchacca praviĺna.
+Dialogue: 0,0:03:32.97,0:03:34.69,Default,Kl,0000,0000,0000,,Tak, razumieju...
+Dialogue: 0,0:03:35.13,0:03:37.14,Default,Kl,0000,0000,0000,,Alie jon viortki.
+Dialogue: 0,0:03:38.50,0:03:40.86,Default,K,0000,0000,0000,,Kali pačnieš ruchacca praviĺna
+Dialogue: 0,0:03:41.78,0:03:44.55,Default,K,0000,0000,0000,,i aktyvuješ skil miečnika,
+Dialogue: 0,0:03:50.70,0:03:53.87,Default,K,0000,0000,0000,,to sistema ŭsio sama zrobić.
+Dialogue: 0,0:03:53.87,0:03:56.44,Default,Kl,0000,0000,0000,,Praviĺna pačać ruchacca... praviĺna pačać ruchacca
+Dialogue: 0,0:03:57.34,0:03:59.27,Default,K,0000,0000,0000,,Jak sfarmuliavać?
+Dialogue: 0,0:04:01.38,0:04:05.55,Default,K,0000,0000,0000,,Zrabi nievialikuju paŭzu, \Ni, kali adčuješ, što zdoĺnasć pačala aktyvacyju,
+Dialogue: 0,0:04:05.55,0:04:07.10,Default,K,0000,0000,0000,,daj joj vybuchnuć.
+Dialogue: 0,0:04:07.63,0:04:09.63,Default,Kl,0000,0000,0000,,Vybuchnuć?
+Dialogue: 0,0:04:32.69,0:04:35.87,Default,Kl,0000,0000,0000,,Jes!
+Dialogue: 0,0:04:36.18,0:04:37.53,Default,K,0000,0000,0000,,Vinšuju.
+Dialogue: 0,0:04:40.42,0:04:41.55,Default,K,0000,0000,0000,,Adnak...
+Dialogue: 0,0:04:42.92,0:04:45.82,Default,K,0000,0000,0000,,Hety dzik slaby, jak slimak u liuboj inšaj huĺni.
+Dialogue: 0,0:04:45.82,0:04:47.56,Default,Kl,0000,0000,0000,,Sur'jozna?
+Dialogue: 0,0:04:47.56,0:04:49.97,Default,Kl,0000,0000,0000,,Ja dumaŭ, heta byŭ niejki midlbos.
+Dialogue: 0,0:04:50.64,0:04:52.64,Default,K,0000,0000,0000,,Viadoma nie.
+Dialogue: 0,0:04:55.53,0:04:56.81,Default,K,0000,0000,0000,,Zachapliaĺna, ci nie tak?
+Dialogue: 0,0:04:56.81,0:04:58.20,Default,Kl,0000,0000,0000,,Tak!
+Dialogue: 0,0:05:00.15,0:05:01.59,Default,Kl,0000,0000,0000,,Zdoĺnasciej ža šmat?
+Dialogue: 0,0:05:01.59,0:05:03.94,Default,Kl,0000,0000,0000,,Nu tam, kavaĺstva, što-niebudź jašče?
+Dialogue: 0,0:05:04.57,0:05:06.07,Default,K,0000,0000,0000,,Tak.
+Dialogue: 0,0:05:06.07,0:05:09.39,Default,K,0000,0000,0000,,Ja čuŭ, što tut nieabmiežavanaja koĺkasć zdoĺnasciej.
+Dialogue: 0,0:05:09.39,0:05:12.04,Default,K,0000,0000,0000,,Alie mahii niama.
+Dialogue: 0,0:05:12.63,0:05:14.96,Default,Kl,0000,0000,0000,,RPG biez mahii?
+Dialogue: 0,0:05:14.96,0:05:17.16,Default,Kl,0000,0000,0000,,Davoli smielaje rašennie.
+Dialogue: 0,0:05:21.51,0:05:25.01,Default,K,0000,0000,0000,,Ci nie viesialiej ruchacca pad čas bojki?
+Dialogue: 0,0:05:26.12,0:05:27.22,Default,Kl,0000,0000,0000,,Maješ racyju!
+Dialogue: 0,0:05:29.46,0:05:31.48,Default,K,0000,0000,0000,,Akiej, ruchajemsia daliej.
+Dialogue: 0,0:05:31.48,0:05:33.86,Default,Kl,0000,0000,0000,,Tak, praciahvajem!
+Dialogue: 0,0:05:41.74,0:05:44.69,Default,Kl,0000,0000,0000,,Koĺki b ja ni bačyŭ heta, dahetuĺ nie mahu pavieryć...
+Dialogue: 0,0:05:44.69,0:05:47.19,Default,Kl,0000,0000,0000,,Što my ŭ huĺni.
+Dialogue: 0,0:05:47.78,0:05:50.78,Default,Kl,0000,0000,0000,,Toj, chto zrabiŭ heta - hienij.
+Dialogue: 0,0:05:51.08,0:05:53.02,Default,Kl,0000,0000,0000,,Sapraŭdy ŭražvaje...
+Dialogue: 0,0:05:53.02,0:05:55.93,Default,Kl,0000,0000,0000,,Sur'jozna, ja ščaslivy, što naradziŭsia ŭ taki čas.
+Dialogue: 0,0:05:55.93,0:05:57.62,Default,K,0000,0000,0000,,Ty zanadta burna na ŭsio reahuješ.
+Dialogue: 0,0:05:57.99,0:06:00.39,Default,Kl,0000,0000,0000,,Heta majo pieršaje poŭnaje pahružennie!
+Dialogue: 0,0:06:00.39,0:06:05.09,Default,K,0000,0000,0000,,Upieršyniu hraješ u huĺniu z NerveGear?
+Dialogue: 0,0:06:05.09,0:06:10.73,Default,Kl,0000,0000,0000,,Ja kupiŭ šliem jak toĺki pačuŭ pra SAO.
+Dialogue: 0,0:06:10.73,0:06:15.56,Default,Kl,0000,0000,0000,,Mnie tak pašancavala atrymać \Nadnu z dziesiaci tysiač kopij.
+Dialogue: 0,0:06:15.56,0:06:20.89,Default,Kl,0000,0000,0000,,Alie tabie pašancavala ŭ dziesiać \Nrazoŭ boĺš  - ty byŭ beta-tescieram.
+Dialogue: 0,0:06:20.89,0:06:23.97,Default,Kl,0000,0000,0000,,Toĺki tysiaču čalaviek nabirali.
+Dialogue: 0,0:06:23.97,0:06:25.86,Default,K,0000,0000,0000,,Napeŭna.
+Dialogue: 0,0:06:25.86,0:06:29.40,Default,Kl,0000,0000,0000,,I nakoĺki ty prasunuŭsia ŭ beta-viersii?
+Dialogue: 0,0:06:29.40,0:06:32.55,Default,K,0000,0000,0000,,Prykladna za paru miesiacaŭ dajšoŭ toĺki da Pavierchu 8.
+Dialogue: 0,0:06:33.37,0:06:36.08,Default,K,0000,0000,0000,,Zaraz heta zojmie toĺki miesiac.
+Dialogue: 0,0:06:37.20,0:06:39.29,Default,Kl,0000,0000,0000,,A ty apantany.
+Dialogue: 0,0:06:39.29,0:06:42.52,Default,K,0000,0000,0000,,Ščyra kažučy, pad čas beta-testu
+Dialogue: 0,0:06:42.52,0:06:46.42,Default,K,0000,0000,0000,,ja dumaŭ toĺki pra SAO, što dniom, što ŭnačy.
+Dialogue: 0,0:06:47.50,0:06:51.10,Default,K,0000,0000,0000,,U hetym sviecie z adnym toĺki \Nliazom možna trapić kudy zaŭhodna.
+Dialogue: 0,0:06:51.89,0:06:54.30,Default,K,0000,0000,0000,,Heta virtuaĺny sviet,
+Dialogue: 0,0:06:54.30,0:06:58.22,Default,K,0000,0000,0000,,alie ja adčuvaju siabie boĺš žyvym \Ntut, čym u reaĺnasci.
+Dialogue: 0,0:07:00.82,0:07:04.00,Default,K,0000,0000,0000,,Nu što, chočaš jašče papaliavać?
+Dialogue: 0,0:07:04.00,0:07:05.39,Default,Kl,0000,0000,0000,,Biezumoŭna!
+Dialogue: 0,0:07:05.39,0:07:06.98,Default,Kl,0000,0000,0000,,Ja b chacieŭ,
+Dialogue: 0,0:07:08.01,0:07:09.90,Default,Kl,0000,0000,0000,,alie ja taki halodny...
+Dialogue: 0,0:07:09.90,0:07:11.20,Default,Kl,0000,0000,0000,,Ja vychodžu.
+Dialogue: 0,0:07:11.20,0:07:14.82,Default,K,0000,0000,0000,,Kali ty jasi tut, to ty toĺki \Ndumaješ, što ty nie halodny.
+Dialogue: 0,0:07:15.69,0:07:18.49,Default,Kl,0000,0000,0000,,Ja ŭžo zakazaŭ picu na 5:30.
+Dialogue: 0,0:07:18.49,0:07:19.84,Default,K,0000,0000,0000,,A ty padrychtavaŭsia.
+Dialogue: 0,0:07:19.84,0:07:20.82,Default,Kl,0000,0000,0000,,Aha!
+Dialogue: 0,0:07:20.82,0:07:23.38,Default,Kl,0000,0000,0000,,Viarnusia jak toĺki pajem.
+Dialogue: 0,0:07:24.34,0:07:25.84,Default,K,0000,0000,0000,,Dobra.
+Dialogue: 0,0:07:25.84,0:07:26.84,Default,Kl,0000,0000,0000,,Hej.
+Dialogue: 0,0:07:26.84,0:07:32.01,Default,Kl,0000,0000,0000,,Ja paslia hetaha sustrenusia z liudźmi, \Nz jakimi paznajomiŭsia ŭ inšaj huĺnie.
+Dialogue: 0,0:07:32.01,0:07:35.30,Default,Kl,0000,0000,0000,,Nie chočaš z imi paznajomicca?
+Dialogue: 0,0:07:38.05,0:07:41.41,Default,Kl,0000,0000,0000,,Alie ja ciabie nie prymušaju.
+Dialogue: 0,0:07:41.41,0:07:43.77,Default,Kl,0000,0000,0000,,Paznajomliu vas pazniej.
+Dialogue: 0,0:07:43.77,0:07:45.62,Default,K,0000,0000,0000,,Tak, vybač.
+Dialogue: 0,0:07:46.59,0:07:47.48,Default,K,0000,0000,0000,,Dziakuj.
+Dialogue: 0,0:07:47.77,0:07:50.77,Default,Kl,0000,0000,0000,,Hej, heta maje slovy.
+Dialogue: 0,0:07:50.77,0:07:53.65,Default,Kl,0000,0000,0000,,Ja tabie kali-niebudź addziaču...
+Dialogue: 0,0:07:53.65,0:07:55.22,Default,Kl,0000,0000,0000,,Razumova.
+Dialogue: 0,0:07:56.84,0:07:59.00,Default,Kl,0000,0000,0000,,Vialiki tabie dziakuj, siabra.
+Dialogue: 0,0:07:59.85,0:08:01.84,Default,Kl,0000,0000,0000,,Jašče pabačymsia.
+Dialogue: 0,0:08:01.84,0:08:05.08,Default,K,0000,0000,0000,,Kali zachočaš spytacca \Npra što-niebudź jašče, skažy mnie.
+Dialogue: 0,0:08:05.08,0:08:07.70,Default,Kl,0000,0000,0000,,Tak i zrabliu!
+Dialogue: 0,0:08:14.26,0:08:15.38,Default,Kl,0000,0000,0000,,Ha?
+Dialogue: 0,0:08:16.54,0:08:18.76,Default,Kl,0000,0000,0000,,Tut niama knopki "vyjsci".
+Dialogue: 0,0:08:18.76,0:08:20.40,Default,K,0000,0000,0000,,Pryhliedźsia.
+Dialogue: 0,0:08:21.61,0:08:23.49,Default,Kl,0000,0000,0000,,Nie, jaje tut niama.
+Dialogue: 0,0:08:24.07,0:08:26.23,Default,K,0000,0000,0000,,U samym nizie mieniu...
+Dialogue: 0,0:08:30.64,0:08:31.89,Default,Kl,0000,0000,0000,,Bačyš? Niama.
+Dialogue: 0,0:08:31.89,0:08:33.69,Default,K,0000,0000,0000,,Sapraŭdy niama.
+Dialogue: 0,0:08:34.31,0:08:37.66,Default,Kl,0000,0000,0000,,Nu, heta ž pieršy dzień relizu!
+Dialogue: 0,0:08:37.66,0:08:39.12,Default,Kl,0000,0000,0000,,Abaviazkova buduć bahi.
+Dialogue: 0,0:08:39.12,0:08:41.67,Default,Kl,0000,0000,0000,,Upeŭnieny, adminy u šalienstvie.
+Dialogue: 0,0:08:42.24,0:08:44.00,Default,K,0000,0000,0000,,Chutka i ty budzieš.
+Dialogue: 0,0:08:44.00,0:08:46.25,Default,It's 5,0000,0000,0000,,Užo 5:25.
+Dialogue: 0,0:08:48.09,0:08:52.70,Default,Kl,0000,0000,0000,,Maje pica teryjaki i imbirny eĺ!
+Dialogue: 0,0:08:51.00,0:08:53.72,Default,K,0000,0000,0000,,Prosta zviarnisia da hiejmmajstra jak maha chutčej.
+Dialogue: 0,0:08:55.29,0:08:58.49,Default,Kl,0000,0000,0000,,Ja sprabavaŭ, alie ničoha nie atrymalasia.
+Dialogue: 0,0:08:58.49,0:09:01.28,Default,Kl,0000,0000,0000,,A jak-niebudź jašče vyjsci možna?
+Dialogue: 0,0:09:04.19,0:09:07.86,Default,K,0000,0000,0000,,Nie, kali ihrok choča vyjsci,
+Dialogue: 0,0:09:07.86,0:09:10.15,Default,K,0000,0000,0000,,jamu treba zrabić heta praz haloŭnaje mieniu.
+Dialogue: 0,0:09:10.15,0:09:11.81,Default,Kl,0000,0000,0000,,Luchta niejkaja.
+Dialogue: 0,0:09:11.81,0:09:13.47,Default,Kl,0000,0000,0000,,Pavinnaje być jašče jakoje-niebudź vyjscie
+Dialogue: 0,0:09:13.47,0:09:14.61,Default,Kl,0000,0000,0000,,Viarnucca!
+Dialogue: 0,0:09:14.61,0:09:15.55,Default,Kl,0000,0000,0000,,Vyjsci!
+Dialogue: 0,0:09:15.55,0:09:16.78,Default,Kl,0000,0000,0000,,Zbiehčy!
+Dialogue: 0,0:09:22.42,0:09:23.87,Default,K,0000,0000,0000,,Ja ž kažu...
+Dialogue: 0,0:09:24.23,0:09:28.01,Default,K,0000,0000,0000,,Pra nadzvyčajny vychad u daviedniku ničoha nie bylo.
+Dialogue: 0,0:09:28.01,0:09:30.33,Default,Kl,0000,0000,0000,,Ty ž žartuješ, praŭda?
+Dialogue: 0,0:09:30.33,0:09:31.34,Default,Kl,0000,0000,0000,,Viedaju.
+Dialogue: 0,0:09:31.34,0:09:33.67,Default,Kl,0000,0000,0000,,Ja prosta zdymu NerveGear z halavy...
+Dialogue: 0,0:09:33.67,0:09:34.88,Default,K,0000,0000,0000,,Nie zmožaš.
+Dialogue: 0,0:09:34.88,0:09:38.45,Default,K,0000,0000,0000,,My nie možam ruchać našyja reaĺnyja ciely.
+Dialogue: 0,0:09:38.45,0:09:42.60,Default,K,0000,0000,0000,,NerveGear pierachoplivaje ŭsie ruchi,
+Dialogue: 0,0:09:42.60,0:09:44.64,Default,K,0000,0000,0000,,što my zbirajemsia zrabić.
+Dialogue: 0,0:09:45.32,0:09:46.99,Default,Kl,0000,0000,0000,,Sur'jozna?
+Dialogue: 0,0:09:47.48,0:09:50.15,Default,Kl,0000,0000,0000,,Dyk nam treba čakać, pakuĺ jany nie vypraviać bah?
+Dialogue: 0,0:09:50.49,0:09:53.38,Default,K,0000,0000,0000,,Abo pakuĺ chto-niebudź u reaĺnym sviecie
+Dialogue: 0,0:09:53.38,0:09:56.73,Default,K,0000,0000,0000,,nie zdymie z nas NerveGear.
+Dialogue: 0,0:09:56.73,0:09:58.91,Default,Kl,0000,0000,0000,,Alie ja žyvu adzin.
+Dialogue: 0,0:09:58.91,0:09:59.62,Default,Kl,0000,0000,0000,,A ty?
+Dialogue: 0,0:10:00.50,0:10:02.47,Default,K,0000,0000,0000,,Z mamaj i siastroj.
+Dialogue: 0,0:10:02.47,0:10:05.33,Default,K,0000,0000,0000,,Dumaju, bližej da viačery jany zaŭvažać...
+Dialogue: 0,0:10:06.08,0:10:08.54,Default,Kl,0000,0000,0000,,Koĺki hadoŭ tvajoj siastry?
+Dialogue: 0,0:10:09.64,0:10:12.15,Default,K,0000,0000,0000,,Jana spartsmienka
+Dialogue: 0,0:10:12.15,0:10:13.61,Default,K,0000,0000,0000,,i nienavidzić videahuĺni.
+Dialogue: 0,0:10:13.61,0:10:15.52,Default,K,0000,0000,0000,,Joj niecikava z takimi, jak my.
+Dialogue: 0,0:10:15.52,0:10:16.38,Default,Kl,0000,0000,0000,,Niava—
+Dialogue: 0,0:10:20.12,0:10:21.72,Default,Kl,0000,0000,0000,,Sapraŭdy, nie baliuča.
+Dialogue: 0,0:10:21.72,0:10:24.45,Default,K,0000,0000,0000,,Što boĺš važna, tabie heta nie padajecca dziŭnym?
+Dialogue: 0,0:10:24.45,0:10:26.03,Default,Kl,0000,0000,0000,,Tak.
+Dialogue: 0,0:10:26.03,0:10:26.98,Default,Kl,0000,0000,0000,,Heta bah.
+Dialogue: 0,0:10:27.68,0:10:29.19,Default,K,0000,0000,0000,,Heta nie prosta bah.
+Dialogue: 0,0:10:29.71,0:10:31.15,Default,K,0000,0000,0000,,Kali my nie možam vyjsci,
+Dialogue: 0,0:10:31.45,0:10:34.35,Default,K,0000,0000,0000,,u huĺni mohuć uzniknuć sur'joznyja prabliemy.
+Dialogue: 0,0:10:35.50,0:10:37.90,Default,Kl,0000,0000,0000,,Maješ racyju.
+Dialogue: 0,0:10:37.90,0:10:40.56,Default,K,0000,0000,0000,,Kali b jany zachacieli,
+Dialogue: 0,0:10:40.56,0:10:43.73,Default,K,0000,0000,0000,,jany b prosta vykliučyli siervier, \Ni ŭsie b vyjšli aŭtamatyčna.
+Dialogue: 0,0:10:43.73,0:10:45.79,Default,K,0000,0000,0000,,Alie navat ab'javu nichto nie robić...
+Dialogue: 0,0:11:16.56,0:11:18.12,Default,Players,0000,0000,0000,,Što adbyvajecca?
+Dialogue: 0,0:11:18.12,0:11:19.11,Default,Players,0000,0000,0000,,Nie viedaju.
+Dialogue: 0,0:11:19.11,0:11:21.32,Default,K,0000,0000,0000,,Prymusovaja teliepartacyja?
+Dialogue: 0,0:11:29.15,0:11:30.73,Default,Player,0000,0000,0000,,Tam.
+Dialogue: 0,0:11:35.35,0:11:36.50,Default,K,0000,0000,0000,,Heta...
+Dialogue: 0,0:11:53.31,0:11:55.44,Default,Kl,0000,0000,0000,,Što heta?
+Dialogue: 0,0:12:01.53,0:12:02.97,Default,Player,0000,0000,0000,,Hiejmmajstar?
+Dialogue: 0,0:12:02.97,0:12:04.05,Default,Player,0000,0000,0000,,Čamu ŭ jaho niama tvaru?
+Dialogue: 0,0:12:04.05,0:12:05.24,Default,Player,0000,0000,0000,,Što zdarylasia?
+Dialogue: 0,0:12:05.24,0:12:06.58,Default,Player,0000,0000,0000,,Mnie strašna...
+Dialogue: 0,0:12:06.58,0:12:07.69,Default,Player,0000,0000,0000,,Usio dobra.
+Dialogue: 0,0:12:07.69,0:12:09.70,Default,Player,0000,0000,0000,,Heta prosta častka cyrymonii adkryccia.
+Dialogue: 0,0:12:10.51,0:12:12.46,Default,BigSpooky,0000,0000,0000,,Uvaha, ihraki.
+Dialogue: 0,0:12:12.79,0:12:15.46,Default,BigSpooky,0000,0000,0000,,Vitaju vas u maim sviecie.
+Dialogue: 0,0:12:15.46,0:12:17.21,Default,K,0000,0000,0000,,"Maim sviecie"?
+Dialogue: 0,0:12:17.21,0:12:19.98,Default,BS,0000,0000,0000,,Majo imia - Kajaba Akichiko.
+Dialogue: 0,0:12:19.98,0:12:24.18,Default,BS,0000,0000,0000,,Na dadzieny momant ja adziny, \Nchto zdoĺny kantraliavać hety sviet.
+Dialogue: 0,0:12:26.39,0:12:27.70,Default,Players,0000,0000,0000,,Heta sapraŭdy jon?
+Dialogue: 0,0:12:27.70,0:12:29.39,Default,Players,0000,0000,0000,,Jon patraciŭ na heta šmat času.
+Dialogue: 0,0:12:29.39,0:12:31.06,Default,K,0000,0000,0000,,Dumaju, vy ŭžo zaŭvažyli,
+Dialogue: 0,0:12:31.06,0:12:36.00,Default,K,0000,0000,0000,,što knopka vychadu znikla z mieniu.
+Dialogue: 0,0:12:36.52,0:12:39.62,Default,K,0000,0000,0000,,Alie heta nie pamylka ŭ rabocie huĺni.
+Dialogue: 0,0:12:40.12,0:12:41.61,Default,K,0000,0000,0000,,Paŭtaraju...
+Dialogue: 0,0:12:41.61,0:12:43.07,Default,K,0000,0000,0000,,Heta nie pamylka ŭ rabocie huĺni.
+Dialogue: 0,0:12:43.07,0:12:46.62,Default,K,0000,0000,0000,,Heta asablivasć Sword Art Online.
+Dialogue: 0,0:12:46.94,0:12:48.24,Default,K,0000,0000,0000,,A-asablivasć?
+Dialogue: 0,0:12:48.55,0:12:51.95,Default,BS,0000,0000,0000,,Vy nie zmožacie vyjsci z SAO samastojna.
+Dialogue: 0,0:12:51.95,0:12:54.74,Default,BS,0000,0000,0000,,I nichto zvonku
+Dialogue: 0,0:12:54.74,0:12:57.82,Default,BS,0000,0000,0000,,nie moža vykliučyć abo zniać NerveGear.
+Dialogue: 0,0:12:58.22,0:12:59.84,Default,BS,0000,0000,0000,,Kali adbudziecca takaja sproba,
+Dialogue: 0,0:13:00.20,0:13:04.25,Default,BS,0000,0000,0000,,pieradatčyk, što znachodzicca ŭ NerveGear \Npačnie vypramieńvać mikrachvali.
+Dialogue: 0,0:13:04.25,0:13:07.80,Default,BS,0000,0000,0000,,Heta zniščyć vaš mozh i zab'je vas.
+Dialogue: 0,0:13:07.80,0:13:09.05,Default,Players,0000,0000,0000,,Što?
+Dialogue: 0,0:13:10.50,0:13:12.27,Default,Players,0000,0000,0000,,Da nu, chopić užo.
+Dialogue: 0,0:13:12.27,0:13:13.17,Default,Players,0000,0000,0000,,Pajšli.
+Dialogue: 0,0:13:14.38,0:13:16.60,Default,Players,0000,0000,0000,,Hej, ja nie mahu vyjsci!
+Dialogue: 0,0:13:17.52,0:13:19.40,Default,Kl,0000,0000,0000,,Pra što heta jon?
+Dialogue: 0,0:13:19.40,0:13:21.26,Default,Kl,0000,0000,0000,,Jon prosta var'jat.
+Dialogue: 0,0:13:21.26,0:13:22.32,Default,Kl,0000,0000,0000,,Praŭda, Kiryto?
+Dialogue: 0,0:13:22.68,0:13:27.00,Default,K,0000,0000,0000,,Pra pieradatčyk jon nie chlusić.
+Dialogue: 0,0:13:27.00,0:13:29.62,Default,K,0000,0000,0000,,Biez zascierahaĺnika jon sapraŭdy \Nmoža padsmažyć nam mazhi.
+Dialogue: 0,0:13:29.62,0:13:32.04,Default,Kl,0000,0000,0000,,Značyć, kali my adlučymsia ad eliektrasietki...
+Dialogue: 0,0:13:32.04,0:13:35.16,Default,K,0000,0000,0000,,Nie, u NerveGear josć batarejka.
+Dialogue: 0,0:13:38.26,0:13:39.92,Default,Kl,0000,0000,0000,,Alie heta var'jactva!
+Dialogue: 0,0:13:39.92,0:13:41.05,Default,Kl,0000,0000,0000,,Što adbyvajecca?
+Dialogue: 0,0:13:41.05,0:13:44.48,Default,BS,0000,0000,0000,,Na žaĺ, siem'i i siabry niekatorych ihrakoŭ
+Dialogue: 0,0:13:44.48,0:13:46.90,Default,BS,0000,0000,0000,,praihnaravali papiaredžannie
+Dialogue: 0,0:13:46.90,0:13:50.27,Default,BS,0000,0000,0000,,i pasprabavali zniać NerveGear.
+Dialogue: 0,0:13:50.27,0:13:55.01,Default,BS,0000,0000,0000,,U vyniku, dzviescie trynaccać ihrakoŭ
+Dialogue: 0,0:13:55.01,0:13:59.52,Default,BS,0000,0000,0000,,zyšli nazaŭždy i z Ajnkrada, i z reaĺnaha svietu.
+Dialogue: 0,0:13:59.52,0:14:01.19,Default,K,0000,0000,0000,,Dzviescie trynaccać?
+Dialogue: 0,0:14:01.19,0:14:02.48,Default,Kl,0000,0000,0000,,Nie mahu pavieryć...
+Dialogue: 0,0:14:02.48,0:14:03.98,Default,Kl,0000,0000,0000,,Nie mahu pavieryć!
+Dialogue: 0,0:14:03.98,0:14:07.65,Default,K,0000,0000,0000,,Jak vy možacie pabačyć, \Nu navinach pa ŭsim sviecie
+Dialogue: 0,0:14:07.65,0:14:11.21,Default,K,0000,0000,0000,,pišuć pra heta, u tym liku i pra smierci.
+Dialogue: 0,0:14:11.45,0:14:15.02,Default,K,0000,0000,0000,,Takim čynam, vy možacie mierkavać, što ryzyka
+Dialogue: 0,0:14:11.45,0:14:18.42,Sign1D,K,0000,0000,0000,,{\an8}Šmatlikija achviary anlajn huĺni
+Dialogue: 0,0:14:15.02,0:14:18.16,Default,K,0000,0000,0000,,taho, što NerveGear z vas zdymuć, minimaĺnaja.
+Dialogue: 0,0:14:18.42,0:14:22.42,Default,K,0000,0000,0000,,Spadziajusia, vy supakoiciesia \Ni pasprabujecie dajsci da kanca huĺni.
+Dialogue: 0,0:14:24.30,0:14:27.15,Default,K,0000,0000,0000,,Alie ja chaču, kab vy zapomnili.
+Dialogue: 0,0:14:27.15,0:14:31.06,Default,K,0000,0000,0000,,Adradžacca boĺš nieĺha.
+Dialogue: 0,0:14:31.06,0:14:33.22,Default,K,0000,0000,0000,,Kali ŭ vas nie zastajecca chit-pojntaŭ,
+Dialogue: 0,0:14:33.22,0:14:36.22,Default,K,0000,0000,0000,,vaš avatar zniknie nazaŭždy.
+Dialogue: 0,0:14:36.22,0:14:37.18,Default,K,0000,0000,0000,,I ŭ hety samy momant
+Dialogue: 0,0:14:38.64,0:14:42.94,Default,K,0000,0000,0000,,NerveGear zniščyć vaš mozh.
+Dialogue: 0,0:14:58.21,0:15:01.61,Default,,0000,0000,0000,,Vyjsci možna toĺki tady,
+Dialogue: 0,0:15:01.61,0:15:04.13,Default,,0000,0000,0000,,kali vy projdziecie huĺniu.
+Dialogue: 0,0:15:04.50,0:15:07.65,Default,,0000,0000,0000,,Zaraz vy na \Nnajnižejšym paviersie Ajnkrada,
+Dialogue: 0,0:15:07.65,0:15:09.16,Default,,0000,0000,0000,,Paviersie 1.
+Dialogue: 0,0:15:09.16,0:15:11.53,Default,,0000,0000,0000,,Kali vy projdziecie viežu
+Dialogue: 0,0:15:11.53,0:15:14.10,Default,,0000,0000,0000,,i pieramožacie bosa Paviercha, to piarojdziecie na nastupny ŭzrovień.
+Dialogue: 0,0:15:14.46,0:15:18.48,Default,,0000,0000,0000,,Pieramožacie apošniaha bosa na Paviersie 100 — \Nhuĺnia dlia vas skončycca.
+Dialogue: 0,0:15:18.48,0:15:19.42,Default,Players,0000,0000,0000,,Prajsci?
+Dialogue: 0,0:15:19.42,0:15:20.98,Default,Players,0000,0000,0000,,Pra što heta jon?
+Dialogue: 0,0:15:20.98,0:15:23.44,Default,Players,0000,0000,0000,,Liohka skazać!
+Dialogue: 0,0:15:23.44,0:15:26.45,Default,Kl,0000,0000,0000,,Prajsci ŭsie sto pavierchaŭ?
+Dialogue: 0,0:15:26.45,0:15:28.34,Default,Kl,0000,0000,0000,,Niemahčyma.
+Dialogue: 0,0:15:28.34,0:15:31.18,Default,Kl,0000,0000,0000,,Beta-tesciery nikoli nie zachodzili \Ntak dalioka!
+Dialogue: 0,0:15:32.07,0:15:33.68,Default,BS,0000,0000,0000,,I napasliedak.
+Dialogue: 0,0:15:34.37,0:15:38.88,Default,BS,0000,0000,0000,,Siarod vašych rečaŭ vy znojdziecie padarunak ad mianie.
+Dialogue: 0,0:15:38.88,0:15:40.83,Default,BS,0000,0000,0000,,Pahliadzicie, kali laska.
+Dialogue: 0,0:15:44.21,0:15:45.96,Sign1C,BS,0000,0000,0000,,{\an8}Liusterka
+Dialogue: 0,0:15:44.82,0:15:45.96,Default,K,0000,0000,0000,,Liusterka?
+Dialogue: 0,0:15:51.55,0:15:52.48,Default,K,0000,0000,0000,,Klejn?
+Dialogue: 0,0:16:04.40,0:16:05.77,Default,Kl,0000,0000,0000,,Kiryto, usio dobra?
+Dialogue: 0,0:16:05.77,0:16:07.13,Default,K,0000,0000,0000,,T-tak...
+Dialogue: 0,0:16:08.13,0:16:09.68,Default,K,0000,0000,0000,,Vy chto?
+Dialogue: 0,0:16:09.68,0:16:10.73,Default,Kl,0000,0000,0000,,A ty chto?
+Dialogue: 0,0:16:15.20,0:16:16.82,Default,Players,0000,0000,0000,,Ty chlopiec?
+Dialogue: 0,0:16:16.82,0:16:18.75,Default,Players,0000,0000,0000,,A ty chlusiŭ, što tabie siamnaccać?
+Dialogue: 0,0:16:18.75,0:16:20.04,Default,K,0000,0000,0000,,Heta značyć...
+Dialogue: 0,0:16:20.04,0:16:22.02,Default,K,0000,0000,0000,,Ty Kiryto?                     Ty Klejn?
+Dialogue: 0,0:16:23.39,0:16:24.88,Default,Kl,0000,0000,0000,,Jak?
+Dialogue: 0,0:16:24.88,0:16:25.54,Default,K,0000,0000,0000,,Hety skanier...
+Dialogue: 0,0:16:26.31,0:16:30.62,Default,K,0000,0000,0000,,Datčyki NerveGear zakryvajuć usiu halavu.
+Dialogue: 0,0:16:30.62,0:16:33.37,Default,K,0000,0000,0000,,Tamu tvar jon bačyć.
+Dialogue: 0,0:16:33.37,0:16:35.01,Default,K,0000,0000,0000,,Alie naš rost i ciela...
+Dialogue: 0,0:16:35.01,0:16:39.60,Default,Kl,0000,0000,0000,,Kali my ŭpieršyniu apranuli šliem, \Njaho treba bylo adkalibravać, tak?
+Dialogue: 0,0:16:39.60,0:16:43.23,Default,Kl,0000,0000,0000,,Treba bylo paŭsiuĺ dakranucca da ciela.
+Dialogue: 0,0:16:43.23,0:16:44.98,Default,K,0000,0000,0000,,A-a, i praŭda...
+Dialogue: 0,0:16:44.98,0:16:46.86,Default,K,0000,0000,0000,,Jaŭna jon tak dadzienyja i atrymaŭ.
+Dialogue: 0,0:16:46.86,0:16:49.22,Default,Kl,0000,0000,0000,,Alie... Alie...
+Dialogue: 0,0:16:49.22,0:16:50.41,Default,Kl,0000,0000,0000,,Navošta?
+Dialogue: 0,0:16:50.41,0:16:52.60,Default,Kl,0000,0000,0000,,Navošta heta bylo rabić?
+Dialogue: 0,0:16:53.24,0:16:55.75,Default,K,0000,0000,0000,,Dumaju, jon nam skaža.
+Dialogue: 0,0:16:55.75,0:16:59.17,Default,BS,0000,0000,0000,,Zaraz vy, napeŭna, \Ndumajecie, "Navošta?"
+Dialogue: 0,0:16:59.17,0:17:01.75,Default,BS,0000,0000,0000,,Navošta Kajaba Akichiko,
+Dialogue: 0,0:17:01.75,0:17:05.91,Default,BS,0000,0000,0000,,raspracoŭščyku Sword Art Online i \NNerveGear, heta rabić?
+Dialogue: 0,0:17:06.74,0:17:09.58,Default,BS,0000,0000,0000,,Ja dasiahnuŭ svajoj mety.
+Dialogue: 0,0:17:09.58,0:17:13.02,Default,,0000,0000,0000,,Ja stvaryŭ Majstroŭ Miača Anlajn toĺki dzielia adnaho...
+Dialogue: 0,0:17:13.02,0:17:15.91,Default,,0000,0000,0000,,Stvaryć hety sviet i nazirać za im.
+Dialogue: 0,0:17:17.04,0:17:18.18,Default,K,0000,0000,0000,,Kajaba...
+Dialogue: 0,0:17:18.18,0:17:22.18,Default,BS,0000,0000,0000,,Ja zrabiŭ heta.
+Dialogue: 0,0:17:24.99,0:17:30.44,Default,BS,0000,0000,0000,,Cyrymonija adkryccia Sword Art Online skončanaja.
+Dialogue: 0,0:17:31.00,0:17:34.02,Default,BS,0000,0000,0000,,Udačy, ihraki.
+Dialogue: 0,0:18:08.47,0:18:11.79,Default - italics,K,0000,0000,0000,,Heta adbyvajecca nasamreč...
+Dialogue: 0,0:18:12.88,0:18:14.82,Default - italics,K,0000,0000,0000,,Hienij, jaki stvaryŭ NerveGear
+Dialogue: 0,0:18:15.16,0:18:18.10,Default - italics,K,0000,0000,0000,,i virtuaĺnuju reaĺnasć,
+Dialogue: 0,0:18:18.10,0:18:19.28,Default - italics,K,0000,0000,0000,,Kajaba Akichiko.
+Dialogue: 0,0:18:20.23,0:18:23.24,Default - italics,K,0000,0000,0000,,Ja zachapliaŭsia im, tamu mahu skazać...
+Dialogue: 0,0:18:24.45,0:18:26.21,Default - italics,K,0000,0000,0000,,Usio, što jon toĺki što skazaŭ —
+Dialogue: 0,0:18:26.21,0:18:27.71,Default - italics,K,0000,0000,0000,,praŭda.
+Dialogue: 0,0:18:26.21,0:18:27.71,Sign1C,K,0000,0000,0000,,Heta huĺnia, alie tut usio nasamreč. \N— Raspracoŭščyk Sword Art Online Kajaba Akichiko
+Dialogue: 0,0:18:28.70,0:18:29.96,Default - italics,K,0000,0000,0000,,Kali ja pamru ŭ huĺni,
+Dialogue: 0,0:18:30.69,0:18:32.91,Default - italics,K,0000,0000,0000,,Ja pamru i nasamreč!
+Dialogue: 0,0:18:36.43,0:18:37.42,Default,Girl,0000,0000,0000,,Nie!
+Dialogue: 0,0:18:40.73,0:18:41.79,Default,Players,0000,0000,0000,,Kab ciabie!
+Dialogue: 0,0:18:41.79,0:18:43.32,Default,Players,0000,0000,0000,,Vypuscicie! Vypuscicie mianie adsiuĺ!
+Dialogue: 0,0:18:43.32,0:18:45.63,Default,Players,0000,0000,0000,,Ja nie mahu tut zastavacca... \NU mianie sustreča!
+Dialogue: 0,0:18:45.63,0:18:46.85,Default,Players,0000,0000,0000,,Što vy sabie dumajecie?
+Dialogue: 0,0:18:49.85,0:18:51.53,Default,Players,0000,0000,0000,,Vypusci nas!
+Dialogue: 0,0:18:51.54,0:18:52.47,Default,Players,0000,0000,0000,,Skažycie, što heta chlusnia!
+Dialogue: 0,0:18:53.32,0:18:54.48,Default,Players,0000,0000,0000,,Chto-niebudź!
+Dialogue: 0,0:18:54.48,0:18:56.53,Default,Players,0000,0000,0000,,Zrabicie što-niebudź!
+Dialogue: 0,0:18:57.04,0:18:58.43,Default,K,0000,0000,0000,,Klejn, pajšli.
+Dialogue: 0,0:19:01.71,0:19:02.98,Default,K,0000,0000,0000,,Pasluchaj.
+Dialogue: 0,0:19:02.98,0:19:05.19,Default,K,0000,0000,0000,,Zaraz ja idu ŭ najbližejšuju viosku.
+Dialogue: 0,0:19:05.19,0:19:06.63,Default,K,0000,0000,0000,,Pajšli razam.
+Dialogue: 0,0:19:07.90,0:19:10.46,Default,K,0000,0000,0000,,Kali toje, što joje skazaŭ — praŭda,
+Dialogue: 0,0:19:10.46,0:19:14.46,Default,K,0000,0000,0000,,to ŭsio, što zastajecca rabić — \Nhartavać sily.
+Dialogue: 0,0:19:14.85,0:19:18.37,Default,K,0000,0000,0000,,Resursy virtuaĺnaj MMORPG,
+Dialogue: 0,0:19:18.37,0:19:22.76,Default,K,0000,0000,0000,,inšymi slovami, hrošy i ekspa, abmiežavanyja.
+Dialogue: 0,0:19:22.76,0:19:27.05,Default,K,0000,0000,0000,,Na paliach vakol Horady Pačatkaŭ \Nchutka nie zastaniecca na kaho paliavać.
+Dialogue: 0,0:19:27.05,0:19:28.91,Default,K,0000,0000,0000,,Kab padmacavacca,
+Dialogue: 0,0:19:28.91,0:19:31.48,Default,K,0000,0000,0000,,nam treba zaraz ža isci ŭ najbližejšuju viosku.
+Dialogue: 0,0:19:31.91,0:19:34.93,Default,K,0000,0000,0000,,Ja viedaju ŭsie šliachi i niebiaspiečnyja zony.
+Dialogue: 0,0:19:34.93,0:19:37.36,Default,K,0000,0000,0000,,Navat na pieršym uzroŭni ja zmahu \Ndajsci tudy biez paškodžanniaŭ.
+Dialogue: 0,0:19:37.87,0:19:40.57,Default,Kl,0000,0000,0000,,Alie... Viedaješ,
+Dialogue: 0,0:19:41.95,0:19:46.70,Default,Kl,0000,0000,0000,,My z siabrami praviali u čarzie \Nŭsiu noč, kab kupić huĺniu.
+Dialogue: 0,0:19:48.00,0:19:50.99,Default,Kl,0000,0000,0000,,Jany tam, na ploščy.
+Dialogue: 0,0:19:51.52,0:19:52.62,Default,Kl,0000,0000,0000,,Ja nie mahu ich kinuć.
+Dialogue: 0,0:19:58.16,0:19:59.99,Default - italics,K,0000,0000,0000,,Kali b sa mnoj byŭ toĺki Klejn...
+Dialogue: 0,0:19:59.99,0:20:01.60,Default - italics,K,0000,0000,0000,,Alie jašče dva...
+Dialogue: 0,0:20:01.60,0:20:03.36,Default - italics,K,0000,0000,0000,,Ci navat adzin...
+Dialogue: 0,0:20:03.36,0:20:04.76,Default,Kl,0000,0000,0000,,Prabač.
+Dialogue: 0,0:20:05.07,0:20:08.52,Default,Kl,0000,0000,0000,,Naŭrad ci ja mahu prasić što-niebudź jašče.
+Dialogue: 0,0:20:09.48,0:20:12.93,Default,Kl,0000,0000,0000,,Tamu nie chvaliujsia. \NIdzi ŭ viosku.
+Dialogue: 0,0:20:14.22,0:20:18.04,Default,Kl,0000,0000,0000,,U minulaj huĺni ŭ mianie byla hiĺdyja.
+Dialogue: 0,0:20:18.72,0:20:21.45,Default,Kl,0000,0000,0000,,I ja zmahu skarystacca tym, što daviedaŭsia ad ciabie!
+Dialogue: 0,0:20:22.86,0:20:24.01,Default,K,0000,0000,0000,,Dobra.
+Dialogue: 0,0:20:24.79,0:20:26.70,Default,K,0000,0000,0000,,Značyć, nadyšoŭ čas razvitannia.
+Dialogue: 0,0:20:27.29,0:20:29.81,Default,K,0000,0000,0000,,Kali što zdarycca, napišy.
+Dialogue: 0,0:20:29.81,0:20:30.66,Default,Kl,0000,0000,0000,,Abaviazkova.
+Dialogue: 0,0:20:31.02,0:20:33.12,Default,K,0000,0000,0000,,Dobra. Byvaj, Klejn.
+Dialogue: 0,0:20:33.12,0:20:33.87,Default,Kl,0000,0000,0000,,Kiryto!
+Dialogue: 0,0:20:40.24,0:20:41.30,Default,Kl,0000,0000,0000,,Hej...
+Dialogue: 0,0:20:41.69,0:20:43.01,Default,Kl,0000,0000,0000,,Kiryto.
+Dialogue: 0,0:20:43.01,0:20:46.68,Default,Kl,0000,0000,0000,,A ty byŭ pryvabny.
+Dialogue: 0,0:20:48.00,0:20:49.77,Default,Kl,0000,0000,0000,,U maim huscie.
+Dialogue: 0,0:20:52.02,0:20:55.56,Default,K,0000,0000,0000,,A tvoj reaĺny tvar pasuje \Ntabie ŭ dziesiać razoŭ liepiej.
+Dialogue: 0,0:21:29.34,0:21:31.77,Default - italics,K,0000,0000,0000,,Ja... Ja...
+Dialogue: 0,0:21:32.69,0:21:33.81,Default - italics,K,0000,0000,0000,,Zbirajusia vyžyć...
+Dialogue: 0,0:21:39.01,0:21:40.30,Default - italics,K,0000,0000,0000,,U hetym sviecie!
+Dialogue: 0,0:23:23.84,0:23:27.05,Sign1A,Preview,0000,0000,0000,,{\fad(522,477)}U pieršy miesiac huĺni zahinuli 2000 čalaviek.
+Dialogue: 0,0:23:29.05,0:23:32.55,Sign1A,Preview,0000,0000,0000,,{\fad(859,1)\an9}Pavierch 1 jašče nie projdzieny. \N12/02/2022
+Dialogue: 0,0:23:35.06,0:23:40.03,Title1,,0000,0000,0000,,Daliej: \NBiter
