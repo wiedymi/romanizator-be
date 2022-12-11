@@ -10,7 +10,7 @@
     "body-parser": "^1.19.0",
     "connect-busboy": "^0.0.2",
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "form-data": "^2.5.1",
     "node-fetch": "^2.6.0",
     "nodemon": "^1.19.3",
